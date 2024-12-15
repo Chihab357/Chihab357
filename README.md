@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there! I’m Chihab from Morocco 🌍🚀 I’m all about hacking systems (for good 😉), building cool apps, and creating eye-catching designs. If you’re up for awesome projects and nonstop learning, let’s team up! 🎉✨
 
-![Pixel GIF](https://tenor.com/view/pixel-gif-18340460726492889107)
+![Pixel GIF(https://media1.tenor.com/m/f7859BVKCd8AAAAC/game-time-gamer.gif)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/STRIX357) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chihab-medaghri-alaoui) 
