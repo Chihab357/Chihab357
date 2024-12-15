@@ -18,4 +18,4 @@ Hey there! I’m Chihab from Morocco 🌍🚀 I’m all about hacking systems (f
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chihab357&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitGIF](https://cdn.hashnode.com/res/hashnode/image/upload/v1662864935959/QSn1SEfOl.gif)
