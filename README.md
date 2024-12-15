@@ -4,7 +4,7 @@ Hey there! I’m Chihab from Morocco 🌍🚀 I’m all about hacking systems (f
 ![Pixel GIF](https://media1.tenor.com/m/xRA9bB2fs1cAAAAC/zelda-link.gif)
 
 ## 🌐 Socials:
-[WebSite](https://chihabalaoui.com/)
+[![world-wide-web](https://github.com/user-attachments/assets/8ef98bde-cf31-4b06-9271-22399b54d38a)](https://chihabalaoui.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chihab-medaghri-alaoui) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/STRIX357)
 
